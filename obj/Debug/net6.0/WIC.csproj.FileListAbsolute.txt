@@ -1,0 +1,15 @@
+C:\c# Projects\second year\WIC\bin\Debug\net6.0\WIC.exe
+C:\c# Projects\second year\WIC\bin\Debug\net6.0\WIC.deps.json
+C:\c# Projects\second year\WIC\bin\Debug\net6.0\WIC.runtimeconfig.json
+C:\c# Projects\second year\WIC\bin\Debug\net6.0\WIC.dll
+C:\c# Projects\second year\WIC\bin\Debug\net6.0\WIC.pdb
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\WIC.csproj.AssemblyReference.cache
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\WIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\WIC.AssemblyInfoInputs.cache
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\WIC.AssemblyInfo.cs
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\WIC.csproj.CoreCompileInputs.cache
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\WIC.dll
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\refint\WIC.dll
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\WIC.pdb
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\WIC.genruntimeconfig.cache
+C:\c# Projects\second year\WIC\obj\Debug\net6.0\ref\WIC.dll
